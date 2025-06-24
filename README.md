@@ -29,5 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramakrishna67&show_icons=true&locale=en" alt="ramakrishna67" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramakrishna67&" alt="ramakrishna67" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramakrishna67&" alt="ramakrishna67" /></p>
